@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karunkarthik-git" alt="karunkarthik-git" /></a> </p>
 
-- 🌱 I’m currently learning **AR & VR.**
+- 🌱 I’m currently into building **Scalable systems.**
 
 - 👨‍💻 All of my projects are available at [http://karunkarthik-portfolio.netlify.com/](http://karunkarthik-portfolio.netlify.com/)
 
-- 👯 I’m looking to collaborate on **competitive programming.**
+- 👯 I’m looking to collaborate on **DSA & content creation.**
 
-- 💬 Ask me about **Mern stack, competitive programming.**
+- 💬 Ask me about **C++, Java, Mern Stack, Data Structures and Algorithms.**
 
 - 📫 How to reach me **karunkarthik.t@gmail.com**
 
